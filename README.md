@@ -7,11 +7,16 @@
 ### Skils
 
 <p align="left">
-  <img src="./assets/NodeJS.svg" width="64" alt="NodeJS" />
-  <img src="./assets/ReactJS.svg" width="64" alt="NodeJS" />
-  <img src="./assets/ReactNative.svg" width="64" alt="NodeJS" />
-  <img src="./assets/Javascript.svg" width="64" alt="NodeJS" />
-  <img src="./assets/Typescript.svg" width="64" alt="NodeJS" />
+  <img src="./assets/NodeJS.svg" width="56" alt="NodeJS" />
+  <img src="./assets/ReactJS.svg" width="56" alt="NodeJS" />
+  <img src="./assets/ReactNative.svg" width="56" alt="NodeJS" />
+  <img src="./assets/Javascript.svg" width="56" alt="NodeJS" />
+  <img src="./assets/Typescript.svg" width="56" alt="NodeJS" />
+  <img src="./assets/Delphi.svg" width="56" alt="NodeJS" />
+  <img src="./assets/Docker.svg" width="56" alt="NodeJS" />
+  <img src="./assets/Gatsby.svg" width="56" alt="NodeJS" />
+  <img src="./assets/NestJS.svg" width="56" alt="NodeJS" />
+  <img src="./assets/NextJS.svg" width="56" alt="NodeJS" />
+  <img src="./assets/GraphQL.svg" width="56" alt="NodeJS" />
+  <img src="./assets/DigitalOcean.svg" width="56" alt="NodeJS" />
 </p>
-
-![](./assets/NodeJS.svg);
