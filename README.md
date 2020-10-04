@@ -4,7 +4,7 @@
 
 #### Passionate about software development and problem solving.
 
-### Skils
+### Skills
 
 <p align="left">
   <img src="./assets/NodeJS.svg" width="48" alt="NodeJS" />
