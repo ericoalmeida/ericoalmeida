@@ -20,3 +20,9 @@
   <img src="./assets/GraphQL.svg" width="48" alt="NodeJS" />
   <img src="./assets/DigitalOcean.svg" width="48" alt="NodeJS" />
 </p>
+
+### Stats
+
+[![Erico's github stats](https://github-readme-stats.vercel.app/api?username=ericoalmeida&show_icons=true&theme=merko)](https://github.com/ericoalmeida)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoalmeida&show_icons=true&theme=merko)
