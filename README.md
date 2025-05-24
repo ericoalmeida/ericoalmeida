@@ -20,8 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Delphi](https://img.shields.io/badge/-Delphi-E40046?style=flat-square&logo=embarcadero&logoColor=white)
 
 ---
 
@@ -53,6 +51,13 @@
 ### 🧪 Testing & Observability
 ![Testcontainers](https://img.shields.io/badge/-Testcontainers-00BFFF?style=flat-square&logo=docker)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry)
+
+---
+
+### 📊 Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericoalmeida&layout=compact&langs_count=10&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericoalmeida&show_icons=true&count_private=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ericoalmeida&theme=default)
 
 ---
 
